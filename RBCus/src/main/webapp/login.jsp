@@ -10,7 +10,7 @@
 <body>
 
 	<h2>ログイン</h2>
-	<p>ユーザーIDとパスワードを入力してください
+	<p>ユーザーIDとパスワードを入力してください！！
 
 	<form action="login-servlet" method="post">
 		ユーザID： <input type="text" name="userId" required><br>
